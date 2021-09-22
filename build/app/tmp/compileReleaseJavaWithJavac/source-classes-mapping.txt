@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/prrag/e_commerce_app/BuildConfig.java
- com.prrag.e_commerce_app.BuildConfig
